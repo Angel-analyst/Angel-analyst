@@ -17,7 +17,8 @@
 - 💬 Ask me about **Cloud Computing, Data Analysis.**
 - 📫 Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/agaroman)
 - 📄 Dive into my experiences with my **Resume**: [here]() (soon)
-- ⚡ Fun fact: Apart from coding, I'm also an accomplished **Artist**!
+- ☕🎶 When I'm free I enjoy playing sports, having coffee with friends,
+  listen music and dance.
 <br>
 <br>
 

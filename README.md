@@ -63,9 +63,16 @@ Both apis are in trouble due to the number of requests, if you know any other to
 
 ###
 
-### 🎵 Apple Music  
+### 
+
+# 🎵 The Rhythm of My Projects  
 <p align="center">
   <a href="https://music.apple.com/profile/AngelADTR">
-    <img src="https://cdn.iconfinder.com/icons/1576452/apple_music_logo_icon" alt="Apple Music" width="50px"/>
+    <img src="https://github.com/Angel-analyst/Angel-analyst/blob/main/170984_music_icon.png" alt="Apple Music" width="100px"/>
   </a>
 </p>
+
+- 🎵 Constant Evolution: Every repository is like a continuously evolving song.
+- 💻 Effective Solutions: I craft scripts that solve problems and develop cloud solutions.
+- 🚀 Innovation and Creativity: My work keeps the beat of fresh ideas and creative approaches.
+- 🌟 Turning Challenges into Success: I transform every challenge into a success, much like discovering your new favorite track.

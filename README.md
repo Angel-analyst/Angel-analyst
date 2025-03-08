@@ -2,7 +2,7 @@
 
 <!---------------------------- Typewriter animation ----------------------------->
 # Hello👋, It's me Angel!😇
-![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=3EA9F5&lines=I'm+a+Cloud+Engineer;I'm+a+Data+Analyst)
+![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=3EA9F5&lines=I'm+a+Cloud+Engineer;I'm+a+Data+Analyst;)
 
 
 <!---------------------------- About Me ----------------------------->
@@ -25,7 +25,7 @@
 <!---------------------------- My Skills Section ----------------------------->
 ## 💻 Tech Backpack
 
-<img src="https://skillicons.dev/icons?i=html,azure,terraform,css,js,nodejs,mongodb,mysql,git,github,gitlab,vscode" align="center">
+<img src="https://skillicons.dev/icons?i=azure,vscode,terraform,python,scala,css,js,nodejs,mongodb,mysql,git,github,gitlab" align="center">
 <br>
 
 
@@ -43,14 +43,21 @@
 
 <!--------------------------------- GitHub Stats --------------------------------->
 ### 📊 Github Stats
-<a href='https://github.com/Angel-analyst/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/Angel-analyst/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/Angel-analyst/github-stats-transparent/output/generated/languages.svg)
 
-</a>
 
-<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Angel-analyst&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Angel-analyst&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-<!---------------------------------  Marquee Animation  ------------------------>
-<img height="100" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+###
+
+<!-- Your hits or visitors
+site: http://hits.dwyl.com or https://visitor-badge.glitch.me
+Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
+-->
+<p align="center">
+  <img alt="ViewCount" src="https://views.whatilearened.today/views/github/Angel-analyst/Angel-analyst.svg" />
+</p>
+
+###

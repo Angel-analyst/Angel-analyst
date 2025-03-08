@@ -62,3 +62,10 @@ Both apis are in trouble due to the number of requests, if you know any other to
 </p>
 
 ###
+
+### 🎵 Apple Music  
+<p align="center">
+  <a href="https://music.apple.com/profile/AngelADTR">
+    <img src="https://cdn.iconfinder.com/icons/1576452/apple_music_logo_icon" alt="Apple Music" width="50px"/>
+  </a>
+</p>

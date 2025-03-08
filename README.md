@@ -30,7 +30,24 @@
 <br>
 
 
+<!--------------------------------- Rythm of My Projects --------------------------------->
+
+# 🎵 The Rhythm of My Projects  
+<p align="center">
+  <a href="https://music.apple.com/profile/AngelADTR">
+    <img src="https://github.com/Angel-analyst/Angel-analyst/blob/main/170984_music_icon.png" alt="Apple Music" width="100px"/>
+  </a>
+</p>
+
+- 🎵 Constant Evolution: Every repository is like a continuously evolving song.
+- 💻 Effective Solutions: I craft scripts that solve problems and develop cloud solutions.
+- 🚀 Innovation and Creativity: My work keeps the beat of fresh ideas and creative approaches.
+- 🌟 Turning Challenges into Success: I transform every challenge into a success, much like discovering your new favorite track.
+
+  
+
 <!----------------------------- Open Source Projects --------------------------->
+
 ## 🔖 Some of my Repositories
 <p align="left">
   <a href="https://github.com/Angel-analyst/azure-resume">
@@ -42,7 +59,9 @@
   </a>
 </p>
 
+
 <!--------------------------------- GitHub Stats --------------------------------->
+
 ### 📊 Github Stats
 
 
@@ -61,18 +80,3 @@ Both apis are in trouble due to the number of requests, if you know any other to
   <img alt="ViewCount" src="https://views.whatilearened.today/views/github/Angel-analyst/Angel-analyst.svg" />
 </p>
 
-###
-
-### 
-
-# 🎵 The Rhythm of My Projects  
-<p align="center">
-  <a href="https://music.apple.com/profile/AngelADTR">
-    <img src="https://github.com/Angel-analyst/Angel-analyst/blob/main/170984_music_icon.png" alt="Apple Music" width="100px"/>
-  </a>
-</p>
-
-- 🎵 Constant Evolution: Every repository is like a continuously evolving song.
-- 💻 Effective Solutions: I craft scripts that solve problems and develop cloud solutions.
-- 🚀 Innovation and Creativity: My work keeps the beat of fresh ideas and creative approaches.
-- 🌟 Turning Challenges into Success: I transform every challenge into a success, much like discovering your new favorite track.

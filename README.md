@@ -2,7 +2,7 @@
 
 <!---------------------------- Typewriter animation ----------------------------->
 # Hello👋, It's me Angel!😇
-![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=3EA9F5&lines=I'm+a+Cloud+Engineer;I'm+a+Data+Analyst;)
+![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=3EA9F5&lines=I'm+a+Cloud+Engineer;I'm+a+Data+Analyst;I'm+a+DevOps;)
 
 
 <!---------------------------- About Me ----------------------------->
